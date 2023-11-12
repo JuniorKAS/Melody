@@ -2,6 +2,6 @@
 ## Проект выполнил Антон Клейменов
 
 ### Технология проекта
-html
-css
-javasript
+-html
+-css
+-javasript
